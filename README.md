@@ -16,4 +16,4 @@ If any of the enemies reach a certain height on the screen, the game ends, and a
 
 The game loop continuously updates the screen, checking for player input, moving the player, enemies, and bullets, and handling collisions.
 
-It's a basic space shooter game with limited features, sui
+
