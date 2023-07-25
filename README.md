@@ -1,4 +1,4 @@
-# XSpaceSuvivour
+<div align="center"> XSpaceSuvivour</div>
 
 This Python code is a simple 2D space shooter game using the Pygame library. The game is called "XSpace Survivor." Here's a summary of its functionality:
 
